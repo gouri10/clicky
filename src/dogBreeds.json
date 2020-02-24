@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1, 
+    "name":"Affenpinscher",   
+    "image":"assets/images/Affenpinscher.jpg",
+    "clicked":false
+  },
+  {
+    "id": 2, 
+    "name":"Bedlington Terrier",   
+    "image":"assets/images/bedlington_terrier.jpg",
+    "clicked":false
+  },
+  {
+    "id": 3, 
+    "name":"Bergamasco",   
+    "image":"assets/images/Bergamasco.jpg",
+    "clicked":false
+  },
+  {
+    "id": 4, 
+    "name":"Brussels Griffon",   
+    "image":"assets/images/brussels_griffon.jpg",
+    "clicked":false
+  },
+  {
+    "id": 5, 
+    "name":"Bull Terrier",   
+    "image":"assets/images/bull_terrier.jpg",
+    "clicked":false
+  },
+  {
+    "id": 6, 
+    "name":"Chinese Crested",   
+    "image":"assets/images/chinese_crested.jpg",
+    "clicked":false
+  },
+  {
+    "id": 7, 
+    "name":"Corgen",   
+    "image":"assets/images/Corgen.jpg",
+    "clicked":false
+  },
+  {
+    "id": 8, 
+    "name":"Dandie",   
+    "image":"assets/images/Dandie.jpg",
+    "clicked":false
+  },
+  {
+    "id": 9, 
+    "name":"English Bulldog",   
+    "image":"assets/images/english_bulldog.jpg",
+    "clicked":false
+  },
+  {
+    "id": 10, 
+    "name":"Neapolitan Mastiff",   
+    "image":"assets/images/neapolitan_mastiff.jpg",
+    "clicked":false
+  },
+  {
+    "id": 11, 
+    "name":"Pug",   
+    "image":"assets/images/pug.jpg",
+    "clicked":false
+  },
+  {
+    "id": 12, 
+    "name":"Puli",   
+    "image":"assets/images/Puli.jpg",
+    "clicked":false
+  },
+  {
+    "id": 13, 
+    "name":"Siberian Husky",   
+    "image":"assets/images/siberian_husky.jpg",
+    "clicked":false
+  },
+  {
+    "id": 14, 
+    "name":"Xoloitzcuintli",   
+    "image":"assets/images/Xoloitzcuintli.jpg",
+    "clicked":false
+  },
+  {
+    "id": 15, 
+    "name":"Yorkshire Terrier",   
+    "image":"assets/images/yorkshire_terrier.jpg",
+    "clicked":false
+  }
+ 
+]
