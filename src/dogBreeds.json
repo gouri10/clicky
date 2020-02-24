@@ -2,7 +2,7 @@
   {
     "id": 1, 
     "name":"Affenpinscher",   
-    "image":"assets/images/Affenpinscher.jpg",
+    "image":"assets/images/affenpinscher.jpg",
     "clicked":false
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": 3, 
     "name":"Bergamasco",   
-    "image":"assets/images/Bergamasco.jpg",
+    "image":"assets/images/bergamasco.jpg",
     "clicked":false
   },
   {
@@ -38,13 +38,13 @@
   {
     "id": 7, 
     "name":"Corgen",   
-    "image":"assets/images/Corgen.jpg",
+    "image":"assets/images/corgen.jpg",
     "clicked":false
   },
   {
     "id": 8, 
     "name":"Dandie",   
-    "image":"assets/images/Dandie.jpg",
+    "image":"assets/images/dandie.jpg",
     "clicked":false
   },
   {
@@ -68,7 +68,7 @@
   {
     "id": 12, 
     "name":"Puli",   
-    "image":"assets/images/Puli.jpg",
+    "image":"assets/images/puli.jpg",
     "clicked":false
   },
   {
@@ -80,7 +80,7 @@
   {
     "id": 14, 
     "name":"Xoloitzcuintli",   
-    "image":"assets/images/Xoloitzcuintli.jpg",
+    "image":"assets/images/xoloitzcuintli.jpg",
     "clicked":false
   },
   {
